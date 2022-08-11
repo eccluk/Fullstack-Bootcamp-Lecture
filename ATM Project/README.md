@@ -1,6 +1,6 @@
 # ATM Project
 
-The purpose of the first project is to explain some fundamentals such as data structure, class, functions, etc. <br>
+The purpose of the first project is to explain some fundamentals such as data types, data structure, conditionals, class, functions, etc. <br>
 
 Day 0: Github Repo setup and explaining how it works<br>
 Day 1: Planning how to solve the problem.<br>
