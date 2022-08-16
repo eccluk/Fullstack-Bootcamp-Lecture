@@ -5,7 +5,7 @@ The purpose of the first project is to explain some fundamentals such as data ty
 Day 0: Github Repo setup and explaining how it works<br>
 Day 1: Planning how to solve the problem.<br>
 Day 2: Coding the solution.<br>
-
+    
 ## TO DO: <br>
 1. Create a class for the ATM machine. <br>
 2. Create a class for the customer. <br>
