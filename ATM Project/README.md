@@ -7,6 +7,7 @@ Day 1: Planning how to solve the problem.<br>
 Day 2: Coding the solution.<br>
 
 ## TO DO: <br>
+
 1. Create a class for the ATM machine. <br>
 2. Create a class for the customer. <br>
 3. Create a class for the bank. <br>
