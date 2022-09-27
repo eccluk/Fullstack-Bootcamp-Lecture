@@ -23,3 +23,4 @@ This is a bootcamp I currently run to help young people get a job as a Fullstack
 - DDD & TDD, SOLID<br>
 - Nginx<br>
 - AWS<br>
+## Question: How long for each of the stack?

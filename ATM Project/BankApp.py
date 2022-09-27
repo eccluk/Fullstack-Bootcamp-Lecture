@@ -14,3 +14,5 @@ for b in Banks:
         break
 else:
     print(f"Sorry, we don't operate {selectBank} Bank")
+
+#I am abit lost as i wasn't able to commit previous  code what was the task again?
