@@ -1,6 +1,3 @@
-from time import time
-
-
 class BankActTransaction:
     def __init__(self,AcctNumber,Balance,Date):
         self.AcctNumber = AcctNumber
